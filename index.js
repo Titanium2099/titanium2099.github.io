@@ -1,4 +1,4 @@
-import initScrollReveal from "./scripts/scrollReveal";
+import initScrollReveal from "https://cdn.jsdelivr.net/gh/Titanium2099/titanium2099.github.io/scripts/scrollReveal.js";
 import initTiltEffect from "./scripts/tiltAnimation";
 import { targetElements, defaultProps } from "./data/scrollRevealConfig";
 
