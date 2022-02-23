@@ -10020,7 +10020,7 @@ section {
 }
 #hero {
  align-items:center;
- background:#fff;
+ background:linear-gradient(45deg,rgba(2, 170, 176, 0),#00cdac);
  border-bottom:0;
  bottom:0;
  color:#272341;
@@ -10033,7 +10033,7 @@ section {
  padding:0 5.6rem;
  right:0;
  top:0;
- z-index:-1
+ z-index:-1;
 }
 @media (max-width:37.5em) {
  #hero {
